@@ -8,7 +8,7 @@ OK it's 4:34 in Perth, WA and I've managed to clone one folder to my Desktop Git
 My coder friend Rene's tips today: 1) VS Code is good, but a fork called Cursor has really great AI assistance. It's same as visual studio code, but extended with AI
 2) Don't be shy in using AI - really important when used for learning to speeds up brain processing. 3) ChatGTp4 with code interpreter is really good. 4) You can also try Claude (need Opera for VPN bypass). But many models getting out soon, that will be finetuned for coding.
 
-Session notes:
+Thu 24th Aug 2023 Session notes:
 
 * Set-up Github correctly. Why? GH is a powerful repo / activity tracker therefore upload all learning code + projects to show progress of learning / work over 100 days;
 
